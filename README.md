@@ -4,10 +4,10 @@
 
 ```shell
 # install it globally
-$ npm install -g zqy-cli
+$ npm install -g rs-cli
 
 # or yarn
-$ yarn global add zqy-cli
+$ yarn global add rs-cli
 ```
 
 ### 使用 
@@ -15,7 +15,7 @@ $ yarn global add zqy-cli
 #### Quick Start 
 
 ```shell
-$ zqy create <name> [-f|--force]
+rs create <name> [-f|--force]
 ```
 
 #### Options

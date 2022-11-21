@@ -1,10 +1,10 @@
 {
-  "name": "zqy-cli",
+  "name": "rs-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "zqy": "./bin/cli.js"
+    "rs": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,16 +15,16 @@
   ],
   "author": {
     "name": "chuck",
-    "email": "qukun@zqykj.com"
+    "email": "qukun@rsmatrix.cn"
   },
-  "homepage": "https://github.com/zqy-cli/zqy-cli",
+  "homepage": "https://github.com/rs-matrix/rs-cli",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zqy-cli/zqy-cli.git"
+    "url": "git+https://github.com/rs-matrix/rs-cli.git"
   },
   "keywords": [
-    "zqy-cli",
-    "zqy",
+    "rs-cli",
+    "rs-matrix",
     "脚手架"
   ],
   "license": "MIT",
