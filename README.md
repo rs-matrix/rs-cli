@@ -4,10 +4,10 @@
 
 ```shell
 # install it globally
-$ npm install -g rs-cli
+$ npm install -g rsmatrix-cli
 
 # or yarn
-$ yarn global add rs-cli
+$ yarn global add rsmatrix-cli
 ```
 
 ### 使用 

@@ -1,6 +1,6 @@
 {
-  "name": "rs-cli",
-  "version": "1.0.0",
+  "name": "rsmatrix-cli",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
